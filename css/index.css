@@ -1,0 +1,42 @@
+body {
+    font-family: Verdana;
+    font-size: 15px;
+    background-image: url(grad-670x376.jpg);
+    background-size: 100%;
+    
+}
+h2 {
+    color: #930808;
+    font-size: 25;
+    font-family: 'Oswald';
+    text-align: center;
+}
+h1{
+    color: red;
+    font-size: 60px;
+    font-family: 'Kavivanar', cursive;
+    text-align: center;
+}
+p {
+    color: white;
+    font-size: 14px;
+    font: Arial;
+}
+a href {
+    color: orange;
+    font: italic;
+}
+header {
+    text-indent:320px;
+    word-spacing: 50px;
+    background-color: grey;
+}
+footer {
+    text-align: right;
+    color: white;
+    font-size: 10px;
+    
+}
+
+   
+    
